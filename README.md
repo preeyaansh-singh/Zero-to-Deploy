@@ -1,6 +1,6 @@
 <div align="center">
 
-# Full-Stack Engineering Codex
+# Zero-to-Hero
 
 **A living repository of structured notes, mental models, and architectural patterns across the modern web stack.**
 
