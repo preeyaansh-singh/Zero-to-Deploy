@@ -2,7 +2,6 @@
 
 > **Course:** Full Stack Web Development with AI  
 > **Class focus:** HTML introduction, VS Code setup, HTML boilerplate, basic tags, and running a page locally  
-> **Language:** English notes prepared from the supplied Hindi transcript
 
 ---
 
