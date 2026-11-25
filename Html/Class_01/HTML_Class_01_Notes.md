@@ -1,7 +1,7 @@
 # HTML – Class 01 Notes
 
 > **Course:** Full Stack Web Development with AI  
-> **Class focus:** HTML introduction, VS Code setup, HTML boilerplate, basic tags, and running a page locally  
+> **Class focus :** HTML introduction, VS Code setup, HTML boilerplate, basic tags, and running a page locally  
 
 ---
 
