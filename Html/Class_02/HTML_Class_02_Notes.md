@@ -1,4 +1,4 @@
-# HTML – Class 03 Notes
+# HTML – Class 02 Notes
 ## HTML Headings, Text Formatting, Lists, Attributes, and the Marquee Tag
 
 > **Source:** Class 03 transcript  
