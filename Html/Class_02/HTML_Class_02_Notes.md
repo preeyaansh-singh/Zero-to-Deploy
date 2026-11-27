@@ -1,7 +1,6 @@
 # HTML – Class 02 Notes
 ## HTML Headings, Text Formatting, Lists, Attributes, and the Marquee Tag
-
-> **Source:** Class 03 transcript  
+ 
 > **Language:** English  
 > **Level:** Beginner  
 > **Purpose:** Understand the HTML tags and attributes introduced in this class, practise them in VS Code, and learn where older HTML techniques should be avoided in modern websites.
