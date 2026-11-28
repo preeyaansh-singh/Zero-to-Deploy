@@ -1,13 +1,9 @@
-# HTML – Class 04 Notes
+# HTML – Class 03 Notes
 ## Multimedia, File Paths, Comments and Inline Frames
-
-> Source: Class 04 Hindi transcript | Language: English | Level: Beginner
->
-> These notes follow the lecture's teaching sequence. Technical clarifications and additional practice are explicitly marked. Example filenames and placeholder URLs are illustrative rather than exact copies of the instructor's files.
 
 ---
 
-## 1. Recap of Class 03
+## 1. Recap of Class 02
 
 | Tag / attribute | Purpose |
 |---|---|
